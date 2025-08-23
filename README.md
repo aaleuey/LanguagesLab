@@ -34,11 +34,11 @@ Es bietet praktische Beispiele und Übungen in Python, C, Java, JavaScript, SQL 
 <details>
 <summary><strong>python/</strong></summary>
 
-- [ ] PythonBasics.py
-- [ ] ControlFlow.py
-- [ ] Functions.py
-- [ ] ListsAndDicts.py
-- [ ] FileIO.py
+- [v] PythonBasics.py
+- [v] ControlFlow.py
+- [v] Functions.py
+- [v] ListsAndDicts.py
+- [v] FileIO.py
 - [ ] ErrorHandling.py
 - [ ] ModulesAndPackages.py
 - [ ] WebRequests.py
