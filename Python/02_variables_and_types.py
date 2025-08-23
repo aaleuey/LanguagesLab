@@ -1,6 +1,6 @@
 # 1. Basic Variable Declaration
 # -----------------------------------------------------------------------------------------------
-name = "Daa"
+name = "Hana"
 age = 21
 height = 159.7
 is_student = True
