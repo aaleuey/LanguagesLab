@@ -29,7 +29,7 @@ print("Item\tPrice")  # \t
 
 # 5. Format Strings in Python
 # -----------------------------------------------------------------------------------------------
-name = "Daa"
+name = "Hana"
 age = 21
 
 # 1: % format
