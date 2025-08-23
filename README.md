@@ -34,11 +34,11 @@ Es bietet praktische Beispiele und Übungen in Python, C, Java, JavaScript, SQL 
 <details>
 <summary><strong>python/</strong></summary>
 
-- [ x ] PythonBasics.py
-- [ x ] ControlFlow.py
-- [ x ] Functions.py
-- [ x ] ListsAndDicts.py
-- [ x ] FileIO.py
+- [x] PythonBasics.py
+- [x] ControlFlow.py
+- [x] Functions.py
+- [x] ListsAndDicts.py
+- [x] FileIO.py
 - [ ] ErrorHandling.py
 - [ ] ModulesAndPackages.py
 - [ ] WebRequests.py
@@ -51,7 +51,7 @@ Es bietet praktische Beispiele und Übungen in Python, C, Java, JavaScript, SQL 
 <details>
 <summary><strong>c/</strong></summary>
 
-- [ ] CBasics.c
+- [x] CBasics.c
 - [ ] ControlStrictires.c 
 - [ ] FunctionsInC.c
 - [ ] Pointers.c
